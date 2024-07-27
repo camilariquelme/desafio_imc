@@ -8,7 +8,10 @@ Este proyecto incluye dos programas en Python: uno para calcular el Índice de M
 
 ## Capturas de Pantalla del Proyecto
 
-Incluir capturas de pantalla o imágenes que muestren el proyecto en funcionamiento.
+![image](https://github.com/user-attachments/assets/472da81b-6eaf-4df6-b29a-56d8e259f48f)
+![image](https://github.com/user-attachments/assets/26f7e7d5-21bb-4d0a-8841-763c4b7b0ff3)
+
+
 
 ## Prerrequisitos o Dependencias
 
