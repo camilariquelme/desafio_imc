@@ -1,6 +1,5 @@
 # Desafío - Sentencias Condicionales e Iterativas (I)
-
-Breve descripción del proyecto: Este proyecto contiene dos actividades para practicar el uso de sentencias condicionales e iterativas en Python.
+Este proyecto contiene dos actividades para practicar el uso de sentencias condicionales e iterativas en Python.
 
 ## Descripción del Proyecto
 
